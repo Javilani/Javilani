@@ -1,10 +1,11 @@
 # Hola 👋, soy Javier Lagos
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+Soy un entusiasta de la informática, especializado en diseño y desarrollo web. Desde que descubrí esta área profesional, he estado en constante
+aprendizaje, cada día profundizando más en tecnologías web. Actualmente, estoy terminando un bootcamp de Desarrollo Web Full Stack (JavaScript) 
+y recientemente inicié un intensivo de Front-end enfocado en React.
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
-
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+Con habilidades autodidactas, disciplina y dedicación, estoy en búsqueda de una oportunidad para hacer una transición profesional hacia el 
+desarrollo web, una área que me apasiona profundamente.
 
 ## 📫 Contacto
 
